@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: hidden;" />
-<img src=https://requestbin.io/1occ97d1 />
+<img src=x onerror=alert(1) />
 </div>
