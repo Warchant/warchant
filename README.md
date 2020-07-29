@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: hidden;" />
-<img src=https://requestbin.io/1occ97d1?inspect />
+<img src=https://requestbin.io/1occ97d1 />
 </div>
